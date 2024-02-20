@@ -1,11 +1,1 @@
-4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-B9OSJD6-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-62-Stepping-4-GenuineIntel
-4-physical-8-logical-unameresultsystem=Windows-node=Humais-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-GenuineIntel
-8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.14.186-g779f46943-dirty-version=1-SMP-PREEMPT-Mon-Oct-9-015930-CST-2023-machine=aarch64Linux-4.14.186-g779f46943-dirty-aarch64-with-libcaarch64
-8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.14.186-00923-gc26ca608c116-dirty-version=1-SMP-PREEMPT-Mon-Apr-18-002629-CST-2022-machine=aarch64Linux-4.14.186-00923-gc26ca608c116-dirty-aarch64-with-libcaarch64
-8-physical-16-logical-unameresultsystem=Windows-node=DESKTOP-EL1JAUS-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-26-Stepping-5-GenuineIntel
-8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.19.157-perf-version=1-SMP-PREEMPT-Sun-Oct-8-105444-CST-2023-machine=aarch64Linux-4.19.157-perf-aarch64-with-libcaarch64
-4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-L49FAD0-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-142-Stepping-11-GenuineIntel
-4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-NNK63BG-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
-4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-10OBPUP-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
-20-physical-40-logical-unameresultsystem=Windows-node=DESKTOP-N3UH3EU-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-62-Stepping-4-GenuineIntel
-20-physical-40-logical-unameresultsystem=Windows-node=DESKTOP-N3UH3EU-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-62-Stepping-4-GenuineIntel
+
