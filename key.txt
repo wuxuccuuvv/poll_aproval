@@ -1,1 +1,1 @@
-
+20-physical-40-logical-unameresultsystem=Windows-node=DESKTOP-N3UH3EU-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-62-Stepping-4-GenuineIntel
