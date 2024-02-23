@@ -2,3 +2,4 @@
 4-physical-8-logical-unameresultsystem=Windows-node=Humais-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-B9OSJD6-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-62-Stepping-4-GenuineIntel
 Secrect: 4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-NNK63BG-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
+8-physical-16-logical-unameresultsystem=Windows-node=DESKTOP-EL1JAUS-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-26-Stepping-5-GenuineIntel
